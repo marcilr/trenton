@@ -1,0 +1,24 @@
+README
+Created Wed Nov 22 20:12:51 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+trenton_hep8225_productdatasheet.pdf
+  HEP8225 data sheet
+  o Up to 14-Core Intel Xeon E5-2600 Processors
+  o Two Serial ATA/600 Interfaces 
+  o Eight Channel DDR4 Memory Interfaces, DDR4-2400 speeds,
+    128GB capacity (16GB DIMMs)
+    256GB capacity (32GB DIMMs)
+    Up to eight standard DDR4 memory DIMMs are supported on
+    the HEP8225 for a total system memory capacity of 256GB when
+    using 32GB DIMMs. The HEP8225 takes advantage of the four-
+    channel DDR4 memory interface by enabling select Intel Xeon
+    E5-2600 v4 Series Processors to deliver system memory speeds
+    with peak data transfer rates up to 2400 MT/s per channel. ECC
+    registered memory is supported on the HEP8225 and Trenton
+    recommends PC4-19200 standard DIMMs for all HEP8225
+    processor options.
+  https://static.trentonsystems.com/pdfs/trenton_hep8225_productdatasheet.pdf
