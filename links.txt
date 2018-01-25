@@ -1,0 +1,87 @@
+links.txt
+Created Mon Nov 20 18:31:55 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Trenton Systems related links
+
+
+Links
+=====
+Crucial 16GB DDR4-2133 RDIMM
+part #: CT16G4RFD4213
+DDR4 PC4-17000, CL=15, Dual Ranked, x4 based, Registered, ECC, DDR4, 2048Meg x 72
+price: $232.99 (November 22, 2017)
+http://www.crucial.com/usa/en/ct16g4rfd4213
+
+Crucial 32GB DDR4-2400 RDIMM
+CT32G4RFD424A
+Brand: Crucial
+Form Factor: RDIMM
+Total Capacity: 32GB
+Warranty: Limited Lifetime
+Specs: DDR4 PC4-19200, CL=17, Dual Ranked, x4 based, Registered, ECC, DDR4-2400, 1.2V, 
+4096Meg x 72
+Series: Crucial
+price: $415.99 (November 22, 2017)
+http://www.crucial.com/usa/en/ct32g4rfd424a
+
+Crucial 32GB DDR4 2400 MHz RDIMM Memory Module
+B&H # CRCT32GRF424 MFR # CT32G4RFD424A
+price: $386.99 (November 22, 2017)
+https://www.bhphotovideo.com/c/product/1182631-REG/crucial_ct32g4rfd424a_32gb_1_x_32gb.html?c3api=0980%2C110370500933&gclid=Cj0KCQiA3dTQBRDnARIsAGKSflmZFW6_qUtih3NJGavYdHoY_tM6HXHvIiM88aT-FpEWx0WA_AAhp68aAtNUEALw_wcB
+
+HEP8225 HDEC Series System Host Board
+o Intel C612 platform controller hub.
+o deliver eighty (80) PCI Express 3.0 interfaces to an HDEC Series backplane.
+COMMS:
+o 2 - Intel Xeon E5-2600 v3 or v4 series processors,
+o 4 - x16 and two x8 PCIe 3.0 links (Edge connectors C1, C2 and C3)
+o 2 - 10/100/1000/10000Base-T (I/O Bracket, SHB configuration dependent)
+o 2 - 10/100/1000Base-T (I/O Bracket, SHB configuration dependent)
+o 1 -  RS232 Serial (I/O Bracket)
+I/O:
+o 8 - SATA/600 ports with RAID (two on-board headers and six backplane interfaces)
+o 6 - USB 3.0 interfaces (four I/O bracket ports and two backplane interfaces)
+o 4 - USB 2.0 interfaces (four backplane interfaces)
+o 1 - VGA Analog Video (I/O bracket)
+o 1 - Audio Out (I/O bracket)*
+o 1 - Audio In (I/O bracket)
+o 1 - Mic In (I/O bracket)
+Memory:
+The HEP8225's four independent memory channels per processor are capable of supporting
+DDR4-2400 memory interface speeds.  Maximum memory speed will vary as a function of the
+specific processors used on the HEP8225.
+Registered DIMMs (RDIMMs) are required on the HEP8225. 
+https://www.trentonsystems.com/processor-boards/hep8225
+
+Meet the Trenton Rugged PERFORMANCE
+Rackmount Computer
+Dual Xeon Gold 5120T Processors
+64GB DDR4-2133 Memory
+8 PCIe 3.0 Slots
+256 GB SSD
+https://www.trentonsystems.com/rugged-systems/trenton-rugged-performance
+
+Support at Trenton Systems
+Phone: 770.287.3100
+Toll-Free: 800.875.6031
+Fax: 770.287.3150
+Trenton Systems Inc.
+1725 Macleod Drive
+Lawrenceville, GA 30043
+Email: info@trentonsystems.com
+https://www.trentonsystems.com/support
+
+Trenton Rugged PERFORMANCE
+Rackmount Computer
+o HDB8228 HDEC Series Midsize Backplane
+o HEP8225 System Host Board
+o Dual Xeon Gold 5120T Processors
+o 64GB DDR4-2133 Memory
+o 8 PCIe 3.0 Slots
+o 256 GB SSD
+https://www.trentonsystems.com/rugged-systems/trenton-rugged-performance
+
+Trenton Systems
+https://www.trentonsystems.com/
